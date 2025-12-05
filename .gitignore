@@ -1,0 +1,15 @@
+# VS Code settings
+.vscode/
+
+# Node dependencies
+node_modules/
+
+# Logs
+*.log
+
+#datase
+*.csv
+
+# Build output
+dist/
+build/
