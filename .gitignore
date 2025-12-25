@@ -13,3 +13,7 @@ node_modules/
 # Build output
 dist/
 build/
+
+#env
+c_env/
+data/
