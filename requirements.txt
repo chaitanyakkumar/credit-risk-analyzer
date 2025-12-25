@@ -1,0 +1,30 @@
+# Core
+pandas
+numpy
+scikit-learn
+
+# Modeling
+xgboost
+lightgbm
+optuna
+
+# Database
+SQLAlchemy
+psycopg2-binary
+
+# API
+fastapi
+uvicorn[standard]
+
+# Experiment tracking
+mlflow
+
+# Orchestration (local)
+apache-airflow
+
+# Monitoring
+prometheus-client
+
+# Utils
+python-dotenv
+pyyaml
