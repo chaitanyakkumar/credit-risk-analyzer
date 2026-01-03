@@ -2,6 +2,8 @@
 pandas
 numpy
 scikit-learn
+seaborn
+category-encoders
 
 # Modeling
 xgboost
